@@ -1,2 +1,2 @@
 # CSSLecture01
-Example
+Creating my first GitHub repo and learning about git.
